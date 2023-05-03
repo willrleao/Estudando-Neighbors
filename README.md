@@ -1,4 +1,4 @@
-# Estudando-KNeighborsClassifier
+# Estudando-Neighbors
 
 Este repositório contém códigos e arquivos de dados utilizados para estudar e aplicar o algoritmo de classificação KNeighborsClassifier.
 
