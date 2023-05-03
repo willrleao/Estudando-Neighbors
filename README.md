@@ -1,8 +1,9 @@
 # Estudando-Neighbors
 
 Este repositório contém códigos e arquivos de dados utilizados para estudar e aplicar o algoritmo de classificação KNeighborsClassifier.
-`train_size=0.60,test_size=0.40`´´´
-Naive Bayes:
+`train_size=0.60,test_size=0.40`
+´´´
+# Naive Bayes:
               precision    recall  f1-score   support
 
            0       0.99      0.95      0.97       148
